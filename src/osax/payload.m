@@ -18,6 +18,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
+#include <CoreGraphics/CoreGraphics.h>
 
 #include "common.h"
 
